@@ -1,0 +1,9 @@
+c:\users\hit96\documents\visual studio 2010\Projects\ProyectoCalculadora\ProyectoCalculadora\bin\Debug\ProyectoCalculadora.exe
+c:\users\hit96\documents\visual studio 2010\Projects\ProyectoCalculadora\ProyectoCalculadora\bin\Debug\ProyectoCalculadora.pdb
+c:\users\hit96\documents\visual studio 2010\Projects\ProyectoCalculadora\ProyectoCalculadora\bin\Debug\ProyectoCalculadora.xml
+c:\users\hit96\documents\visual studio 2010\Projects\ProyectoCalculadora\ProyectoCalculadora\obj\x86\Debug\ProyectoCalculadora.Form1.resources
+c:\users\hit96\documents\visual studio 2010\Projects\ProyectoCalculadora\ProyectoCalculadora\obj\x86\Debug\ProyectoCalculadora.Resources.resources
+c:\users\hit96\documents\visual studio 2010\Projects\ProyectoCalculadora\ProyectoCalculadora\obj\x86\Debug\ProyectoCalculadora.vbproj.GenerateResource.Cache
+c:\users\hit96\documents\visual studio 2010\Projects\ProyectoCalculadora\ProyectoCalculadora\obj\x86\Debug\ProyectoCalculadora.exe
+c:\users\hit96\documents\visual studio 2010\Projects\ProyectoCalculadora\ProyectoCalculadora\obj\x86\Debug\ProyectoCalculadora.xml
+c:\users\hit96\documents\visual studio 2010\Projects\ProyectoCalculadora\ProyectoCalculadora\obj\x86\Debug\ProyectoCalculadora.pdb
